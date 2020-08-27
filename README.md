@@ -12,3 +12,9 @@ WINDOWS版本要求
 Microsoft .NET Framework 4.6 或者更高
 Project V 核心
 https://github.com/v2fly/v2ray-core/releases
+
+版本对应
+Windows-V2RayN
+MAC-V2RayU
+IOS-Shadowrocket
+Android-V2RayNG
